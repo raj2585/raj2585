@@ -1,10 +1,11 @@
 #  Hey there! I'm Raj
 
 ## About Me
-- I'm a second-year undergraduate student at **IIT Jodhpur**, pursuing **Chemical Engineering**.
+- I'm a pre-final year undergraduate student at **IIT Jodhpur**, pursuing **Chemical Engineering**.
 
 
 ## Tech Interests
+- **Web Development** 
 - **Machine Learning** 
 - **Data Structures and Algorithms** 
 - **Mathematical Modeling** and **Scientific Computing**
@@ -12,7 +13,9 @@
 
 ## Tools & Languages
 - Python, NumPy, Pandas, TensorFlow, PyTorch, Matplotlib  
-- Git, Jupyter, OpenCV, Colab  
+- OpenCV, SciPy, Seaborn, Scikit-learn
+- Git, Github, Jupyter, Colab
+- HTML, CSS, Javascript 
 - C/C++
 
 
