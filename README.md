@@ -7,23 +7,14 @@
 ## Tech Interests
 - **Web Development** 
 - **Machine Learning** 
-- **Data Structures and Algorithms** 
-- **Mathematical Modeling** and **Scientific Computing**
 
 
 ## Tools & Languages
-- Python, NumPy, Pandas, TensorFlow, PyTorch, Matplotlib  
+- NumPy, Pandas, TensorFlow, PyTorch, Matplotlib  
 - OpenCV, SciPy, Seaborn, Scikit-learn
-- Git, Github, Jupyter, Colab
-- HTML, CSS, Javascript 
-- C/C++
+- HTML, CSS, Javascript, React, Node, Vue 
+- C/C++, Python, Java
 
-
-## Currently Learning
-- Advanced ML Techniques and Model Optimization
-- Data Structures and Algorithms
-- Data Visualization and Interpretability
-- Full-stack basics to understand deployment
 
 ## Let’s Connect!
 - Email: *rajkhedkar2585@gmail.com*  
